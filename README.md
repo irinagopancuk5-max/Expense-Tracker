@@ -1,5 +1,4 @@
 # Expense-Tracker
-# Expense Tracker (C++)
 
 ## 📌 About
 A simple program to track expenses and calculate total spending.
