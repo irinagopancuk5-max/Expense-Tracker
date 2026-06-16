@@ -1,17 +1,22 @@
-# Expense-Tracker
+# Expense Tracker
 
-## 📌 About
-A simple program to track expenses and calculate total spending.
+Simple program to track expenses and calculate total spending.
+
+---
 
 ## ⚙ Features
 - Add expenses
 - Show all expenses
 - Calculate total sum
 
+---
+
 ## 🎯 What I learned
-- Arrays / vectors
+- Vectors / lists
 - Loops
 - Summation logic
+
+---
 
 ## 🚀 Status
 Beginner project
